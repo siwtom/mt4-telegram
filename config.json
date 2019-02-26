@@ -3,5 +3,8 @@
     "port": 80
   },
   "token": "",
-  "chatid": ""
+  "chatid": "",
+  "license":"multi",
+  "email":"demo@fxvietpro.com",
+  "account":123456
 }
